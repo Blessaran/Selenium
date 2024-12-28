@@ -1,3 +1,5 @@
 Git project
 
 Add new file
+
+New text added
